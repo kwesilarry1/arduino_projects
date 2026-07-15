@@ -1,4 +1,4 @@
-#include <Servo.h>
+ #include <Servo.h>
 int buzzer = 8;
 Servo myservo; 
 float pos = 0; 
